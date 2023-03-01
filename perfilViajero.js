@@ -54,7 +54,7 @@ function elQueMasAparece() {
     const linkHisto = "https://udestinations.es/su-perfil-viajero-es-historico-cultural";
     const linkOut = "https://udestinations.es/tu-perfil-viajero-es-outdoors-aventura";
     const linkWell = "https://udestinations.es/su-perfil-viajero-es-wellnex-relax"; */
-    const linkBono = "https://udestinations.es/bonos-experiencia/";
+    const linkBono = "https://udestinations.es/activar-bono/";
     //Constantes que crean un enlace en el front
     const elementAstro = document.createElement('a');
     const elementGastro = document.createElement('a');
