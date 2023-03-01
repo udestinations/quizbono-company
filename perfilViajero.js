@@ -125,19 +125,19 @@ function elQueMasAparece() {
 
     // Links para las landings
     elementAstro.setAttribute("href", linkBono);
-    elementAstro.innerHTML = "« ESTOY LISTO PARA ADQUIRIR MI BONO EXPERIENCIA » ";
+    elementAstro.innerHTML = "« ESTOY LISTO PARA PLANIFICAR MI VIAJE » ";
 
     elementGastro.setAttribute("href", linkBono);
-    elementGastro.innerHTML = "« ESTOY LISTO PARA ADQUIRIR MI BONO EXPERIENCIA » ";
+    elementGastro.innerHTML = "« ESTOY LISTO PARA PLANIFICAR MI VIAJE » ";
 
     elementHisto.setAttribute("href", linkBono);
-    elementHisto.innerHTML = "« ESTOY LISTO PARA ADQUIRIR MI BONO EXPERIENCIA » ";
+    elementHisto.innerHTML = "« ESTOY LISTO PARA PLANIFICAR MI VIAJE » ";
 
     elementWell.setAttribute("href", linkBono);
-    elementWell.innerHTML = "« ESTOY LISTO PARA ADQUIRIR MI BONO EXPERIENCIA » ";
+    elementWell.innerHTML = "« ESTOY LISTO PARA PLANIFICAR MI VIAJE » ";
 
     elementOut.setAttribute("href", linkBono);
-    elementOut.innerHTML = "« ESTOY LISTO PARA ADQUIRIR MI BONO EXPERIENCIA » ";
+    elementOut.innerHTML = "« ESTOY LISTO PARA PLANIFICAR MI VIAJE » ";
 
     // Variables de sub-perfiles
 
